@@ -1,10 +1,10 @@
-🚗 Uber Trip Analysis Dashboard (Power BI)
+# 🚗 Uber Trip Analysis Dashboard (Power BI)
 This project is a dynamic and interactive dashboard built in Power BI to analyze Uber trip data for a given month. It leverages both Excel and Power BI to demonstrate skills in data modeling, visualization, and storytelling.
 
-📊 Project Overview
+## 📊 Project Overview
 The goal of this dashboard is to explore trends and patterns in Uber trip activity, using mock data to simulate real-world booking behavior. The project breaks down trip metrics by vehicle type, payment method, trip timing, and location.
 
-Key Metrics Visualized:
+### Key Metrics Visualized:
 ✅ Total Bookings
 
 💰 Total Booking Value
