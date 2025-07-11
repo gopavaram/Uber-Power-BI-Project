@@ -1,3 +1,5 @@
+<img width="1911" height="973" alt="image" src="https://github.com/user-attachments/assets/c9880163-f606-4666-996a-85deb9357b41" />
+
 # 🚗 Uber Trip Analysis Dashboard (Power BI)
 This project is a dynamic and interactive dashboard built in Power BI to analyze Uber trip data for a given month. It leverages both Excel and Power BI to demonstrate skills in data modeling, visualization, and storytelling.
 
